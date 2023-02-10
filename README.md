@@ -1,1 +1,1 @@
-MobileNet_Pytorch_Implementation of three paper
+MobileNet_Pytorch_Implementation of three version
